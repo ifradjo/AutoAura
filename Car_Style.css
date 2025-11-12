@@ -1,0 +1,6 @@
+/* carpage.css */
+body { margin:0; background:#fff; font-family:Arial,sans-serif; text-align:center; overflow-x:hidden; }
+.car-title { margin-top:40px; font-size:2em; color:#ffffff; }
+.car-image { width:70%; max-width:400px; margin-top:30px;
+  transform:translateX(-100%); opacity:0; transition:all 1.5s ease-out; }
+.car-description { margin:40px auto; max-width:700px; line-height:1.6;color:#ffffff;}
